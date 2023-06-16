@@ -1,0 +1,31 @@
+.container {
+    width: 1140px;
+    column-width: 250px;
+    column-gap: 20px;
+    text-align: left;
+    padding: 50px;
+    margin: auto;
+
+}
+
+.col {
+    text-align: left;
+    height: 200px;
+    width: 300px;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+.f-a {
+    display: table;
+    font-size: inherit;
+    font-size: 14px;
+    color: #b3b3b3;
+    padding: 0 0 10px 0;
+}
+.f-a:hover {
+    color: #a1a1a1!important;
+}
+footer {
+    background: #333333;
+}

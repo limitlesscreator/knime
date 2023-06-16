@@ -1,0 +1,37 @@
+.menu-bar {
+    position: relative;
+    margin: 0 auto;
+    width: 1140px;
+}
+.img-logo {
+    width: 188px;
+    height: 48px;
+    margin: 21px auto 0 0;
+    display: block;
+    vertical-align: middle;
+}
+.nav-d {
+    display: table;
+    margin: -42px 21px 0px auto;
+}
+div .nav-container {
+    padding: 10px 20px;
+    color: #111111;
+}
+.nav-item {
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-btn-grey {
+    color: #000000;
+    padding: 10px 24px;
+}
+.nav-btn-grey:hover {
+    color: #478ac9;
+}
+.search{
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    position: relative;
+}

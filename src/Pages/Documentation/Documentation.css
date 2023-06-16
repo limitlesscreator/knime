@@ -1,0 +1,106 @@
+.readBtn {
+    padding: 10px 30px;
+    display: inline-block;
+    color: #111111;
+    background-color: #ffdb15;
+    border-radius: 50px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+}
+.readBtn:hover {
+    color: #ffffff;
+    background-color: #4d4d4d;
+}
+.u-section-1 .u-sheet-1 {
+    min-height: 251px;
+}
+
+.u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    font-weight: 700;
+    background-image: none;
+    margin: 60px 267px 0 62px;
+}
+
+.u-section-1 .u-text-2 {
+    margin-left: 62px;
+    margin-right: 267px;
+    margin-bottom: 60px;
+}
+.u-section-2 .u-sheet-1 {
+    min-height: 366px;
+}
+
+.u-section-2 .u-table-1 {
+    width: 1013px;
+    margin: 30px auto 60px;
+}
+
+.u-block-fd07-16 {
+    height: 46px;
+}
+
+.u-section-2 .u-table-cell-1 {
+    font-size: 1.25rem;
+}
+
+.u-section-2 .u-table-cell-2 {
+    font-size: 1.25rem;
+}
+
+.u-section-2 .u-btn-1 {
+    font-size: 0.875rem;
+    letter-spacing: 1px;
+    border-style: none;
+    text-transform: uppercase;
+    background-image: none;
+    font-weight: normal;
+    display: inline-block;
+    padding: 10px 30px;
+}
+
+.u-section-2 .u-table-cell-3 {
+    font-size: 1.25rem;
+}
+
+.u-section-2 .u-btn-2 {
+    font-size: 0.875rem;
+    border-style: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-image: none;
+    font-weight: normal;
+    display: inline-block;
+
+}
+
+.u-section-2 .u-table-cell-5 {
+    font-size: 1.25rem;
+}
+
+.u-section-2 .u-btn-3 {
+    font-size: 0.875rem;
+    border-style: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-image: none;
+    font-weight: normal;
+}
+
+.u-section-2 .u-table-cell-7 {
+    font-size: 1.25rem;
+}
+
+.u-section-2 .u-btn-4 {
+    font-size: 0.875rem;
+    border-style: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-image: none;
+}
+
+.u-block-fd07-34 {
+    height: 46px;
+}

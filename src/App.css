@@ -1,38 +1,84 @@
-.App {
-  text-align: center;
+header{
+    /*border: solid 1px black;*/
+    display: flex;
+    height: 70px;
+    width: 1280px;
+    margin: 0 auto;
+    align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+    font-family: 'Open Sans', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.searchImg{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 7px;
+    top: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.search input{
+    padding: 0 30px;
+    height: 35px;
+    background: none;
+    border: solid 2px #cacaca;
+
 }
 
-.App-link {
-  color: #61dafb;
+
+.news{
+    width: 1280px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.news a {
+    color: black;
+    text-decoration: none;
+}
+.part{
+    cursor: pointer;
+    min-height: 100px;
+    display: flex;
+    margin-bottom: 10px;
+    background: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.imgNews {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    min-height: 100px;
+    background: #DDDDDD;
+}
+.imgNews img{
+
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    padding-left: 20px;
+}
+
+.description {
+    white-space: break-spaces;
+    padding: 20px;
+    font-size: 16px;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapperNews {
+    background: #CCCCCC;
+    min-height: 400px;
+    padding-bottom: 50px;
+
 }

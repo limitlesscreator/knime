@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="70" height="70" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="drag-ghost">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path class="bg" d="m1.21,55.46l0,-44.25c0,-2.51 2.18,-4.69 4.69,-4.69l44.08,0c2.68,0 4.86,2.18 4.86,4.69l0,44.08c0,2.68 -2.18,4.69 -4.69,4.69l-44.25,0c-2.51,0.17 -4.69,-2.01 -4.69,-4.53z" fill="#FF9532" id="svg_2"/>
+   <!---->
+   <image height="26.82" id="svg_3" width="26.82" x="14.62" xlink:href="data:image/png;svgedit_url=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADPSURBVHgBtVFBDoIwEByIiSfrA2xAH0A8C1E%2B4l%2BEs%2BEXHrkazsTg3fAAhfABevOEQFISlNImxEmazna3050uMBHa2jBO9e5J6rxXnvsigQoKqAW0oXOdk2eWtUsUizDjZGtZeKQpzkEAVFV3JkPPAqUUtyRp%2Bd5xUBRFV2jQ1XgH3yCE9OL4%2BP6pcS%2FzvkDzehiGYGWJaxS1FhhjULLAP2xjmhiKRRaUx8gFXcdGnNw73ozRl11ekoUwp4kSB3un1BnGBDjGuI6J%2BJ8FVXwArGpkXrM0Y1EAAAAASUVORK5CYII%3D;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOlJREFUOE9jZKAQMCrIydUzMDA0EDCn4cGjR43Y1IAM+E+MIx48esSI14D7Dx+C5RXl5cE0Op+gAXx8fAwXL19mWLNmDQPD//8MIaGhDPq6ugyfPn0CG0jQAJAiGRkZhsNHj4I12FpbMzx58gTuajkZaaw+RQkDZAO8PT0Zrl27Btd0v0IEwwD7JewMKAaA/A3ywqePHxmSkpNRvEDQAEKBSJQX8EUnzAJ7ayuGg0ePgZWC2CAvgBIRKDHhBPx8vAwXLl+Ba0IxAJcuOytLohIY1tQFMhRkALJNuNi0NYCYPILTBcRoBqkBAKDPcvHEdicuAAAAAElFTkSuQmCC" y="19.92"/>
+  </g>
+  <polygon fill="#201E1E" id="svg_4" points="55.41853412985802,27.538721084594727 66.70748600363731,33.18319320678711 55.41853412985802,38.827667236328125 " stroke="#201E1E" stroke-width="1.4px"/>
+  <g id="svg_5">
+   <circle cx="7.92" cy="51.77" id="svg_6" r="2.01"/>
+   <circle cx="16.3" cy="51.77" id="svg_7" r="2.01"/>
+   <circle cx="24.68" cy="51.77" id="svg_8" r="2.01"/>
+  </g>
+ </g>
+
+</svg>
